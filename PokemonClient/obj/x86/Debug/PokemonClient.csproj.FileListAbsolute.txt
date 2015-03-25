@@ -1,0 +1,11 @@
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\PokemonClient\bin\Debug\PokemonClient.exe.config
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\PokemonClient\obj\x86\Debug\PokemonClient.Form1.resources
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\PokemonClient\obj\x86\Debug\PokemonClient.Properties.Resources.resources
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\PokemonClient\obj\x86\Debug\PokemonClient.csproj.GenerateResource.Cache
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\PokemonClient\bin\Debug\PokemonClient.exe
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\PokemonClient\bin\Debug\PokemonClient.pdb
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\PokemonClient\obj\x86\Debug\PokemonClient.exe
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\PokemonClient\obj\x86\Debug\PokemonClient.pdb
+C:\Users\wilbert\Documents\Visual Studio 2012\Projects\SOA2\PokemonClient\bin\Debug\PokemonClient.exe.config
+C:\Users\wilbert\Documents\Visual Studio 2012\Projects\SOA2\PokemonClient\obj\x86\Debug\PokemonClient.exe
+C:\Users\wilbert\Documents\Visual Studio 2012\Projects\SOA2\PokemonClient\obj\x86\Debug\PokemonClient.pdb

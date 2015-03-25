@@ -1,0 +1,5 @@
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\SOA2\bin\Debug\SOA2.dll.config
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\SOA2\bin\Debug\SOA2.dll
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\SOA2\bin\Debug\SOA2.pdb
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\SOA2\obj\Debug\SOA2.dll
+c:\users\kathrine chua\documents\visual studio 2010\Projects\SOA2\SOA2\obj\Debug\SOA2.pdb
